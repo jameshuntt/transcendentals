@@ -1,1 +1,3 @@
-./.vscode
+/.vscode
+/collatz_warped_output_1_billion.txt
+/collatz_warped_output_50_billion.txt

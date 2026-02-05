@@ -55,4 +55,4 @@ def analyze_sequence(file_path):
         seen_patterns[pattern] = i
 
 # Run the analysis
-analyze_sequence('collatz_warp_output.txt')
+analyze_sequence('collatz_warped_output_1_billion.txt')

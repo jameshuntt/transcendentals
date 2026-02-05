@@ -58,7 +58,7 @@ if __name__ == "__main__":
     digits = result_str.split('.')[1][:1_000_000]
 
     # Write 1 million digits to a file
-    with open("collatz_warped_real.txt", "w") as f:
+    with open("collatz_warp_output.txt", "w") as f:
         f.write(digits)
 
     print("Saved first 1,000,000 digits to collatz_warped_real.txt")
