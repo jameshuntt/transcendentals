@@ -44,12 +44,10 @@
 * **Structural Pressure:** Prevents the sequence from collapsing into a "Rational Trap" (repeating loops) by shifting the seed or algorithm parameters based on the system's "temperature."
 
 
-
 ## 3. Identifying "Sweet Spots" (Attractors)
 
 ##### A "Sweet Spot" is a state of **Perfect Chaos**—a region in the phase space where the sequence is demonstrably non-periodic but maintains a statistically flat 10% distribution across all digits.
 * **Formal Goal:** To prove that a "Multi-Source" approach creates a wider basin of attraction for irrationality than single-source generators.
-
 
 
 ## 4. The Formal Proof Strategy (Work in Progress)
