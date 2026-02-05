@@ -1,6 +1,6 @@
 ## collatz_warp
 
-### collatz_warp/collatz_warp.py
+### collatz_warp.py
 
 ##### if you run it and check the numbers you get this (as long as the tool i uses didnt hallucinate some ai garbage)
 
@@ -17,7 +17,27 @@
 ### collatz_warp_output.txt
 ##### check it out if you want, tell me if its somehow a repeater
 
+### check_data.py
+#### i ran it and i got this exact output
+--- Global Frequency Analysis (Total: 1,000,000 digits) ---
+Digit 0: 99,820 (9.98%)
+Digit 1: 100,202 (10.02%)
+Digit 2: 100,140 (10.01%)
+Digit 3: 101,085 (10.11%)
+Digit 4: 99,554 (9.96%)
+Digit 5: 99,834 (9.98%)
+Digit 6: 99,785 (9.98%)
+Digit 7: 100,064 (10.01%)
+Digit 8: 99,702 (9.97%)
+Digit 9: 99,814 (9.98%)
 
+--- Entropy ---
+Shannon Entropy: 3.3219 bits/digit
+Randomness Efficiency: 100.00%
+
+--- Pattern Check ---
+Quad Repeats (e.g., '1111'): 1001
+Found repeating 7-digit block: 0887761
 
 ### summary
 ##### This system generates pseudo-transcendental sequences not through a single static formula, but through the interaction of multiple **Computational Chains** influenced by dynamic **Force Pressures**.
