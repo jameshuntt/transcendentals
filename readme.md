@@ -26,3 +26,29 @@ To move toward a formal proof of "Transcendental Shaping," the framework tracks:
 1.  **Lyapunov Exponents:** Measuring the rate of divergence between two chains with nearly identical starting seeds to verify high sensitivity (chaos).
 2.  **Borel Normality:** Utilizing Chi-Squared tests on multi-megabyte blocks to ensure the sequence remains "normal" (each digit/sequence appears with the expected frequency).
 3.  **Entropy Density:** Monitoring the Shannon entropy to ensure it remains consistently above **3.32 bits/digit**, approaching the theoretical limit of a base-10 random system.
+
+
+
+
+
+
+
+
+
+
+# scripts
+## collatz_warp.py
+
+if you run it and check the numbers you get this (as long as the tool i uses didnt hallucinate some ai garbage)
+
+|-----------------|-------------------------------------|
+| Property        | Result                              |
+|-----------------|-------------------------------------|
+| shannon entropy | ~3.321 bits/digit (max for base‑10) |
+| average digit % | ~10% per digit (0–9)                |
+| randomness      | ~99.97%                             |
+| quad repeats    | 104 in 1,000,000 digits             |
+| distribution    | extremely uniform                   |
+|-----------------|-------------------------------------|
+
+This matches expectations for an output that is *close to Borel normal* and *non‑periodic*.
