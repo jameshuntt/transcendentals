@@ -1,9 +1,3 @@
-# lib
-
-##### this is where i plan on building the real infrastructure of transcendental generation, in a mix of rust (for the whole "prophecies" advantage of using lifetimes for fast inferences and out of order processing) and coq or cubical agda, maybe why3 using creusot, when i think of a module i will build it then write the proofs and experiment with topological deformations like HoTT so maybe one day i can find a cool new transcendental generation proof
-
-# scripts
-
 ## collatz_warp
 
 ### collatz_warp/collatz_warp.py
