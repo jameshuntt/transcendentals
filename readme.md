@@ -17,7 +17,6 @@
 | randomness      | ~99.97%                             |
 | quad repeats    | 104 in 1,000,000 digits             |
 | distribution    | extremely uniform                   |
-|-----------------|-------------------------------------|
 
 ##### This matches expectations for an output that is *close to Borel normal* and *non‑periodic*.
 
