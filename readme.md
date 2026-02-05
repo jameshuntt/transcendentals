@@ -9,7 +9,7 @@
 ### collatz_warp/collatz_warp.py
 
 ##### if you run it and check the numbers you get this (as long as the tool i uses didnt hallucinate some ai garbage)
-|-----------------|-------------------------------------|
+
 | Property        | Result                              |
 |-----------------|-------------------------------------|
 | shannon entropy | ~3.321 bits/digit (max for base‑10) |
