@@ -1,0 +1,1 @@
+trying to find patterns in generating transcendental numbers
