@@ -33,4 +33,4 @@ def analyze_50gb_file(file_path):
     print(f"\nShannon Entropy: {entropy:.6f}")
     print(f"Efficiency: {(entropy / math.log2(10)) * 100:.4f}%")
 
-# analyze_50gb_file('collatz_warped_output_1_billion.txt')
+analyze_50gb_file('collatz_warped_output_50_billion.txt')

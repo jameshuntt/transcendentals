@@ -62,6 +62,29 @@ Randomness Efficiency: 100.00%
 Quad Repeats (e.g., '1111'): 1066235
 Found repeating 7-digit block: 2456130
 
+
+
+### at 50 billion i get this
+
+--- Analyzing 50.00 GB File ---
+Progress: 50.00GB / 50.00GB (100.00%)
+
+--- Global Frequency Analysis ---
+Digit 0: 5,004,870,288 (10.0097%)
+Digit 1: 4,999,660,921 (9.9993%)
+Digit 2: 5,000,002,217 (10.0000%)
+Digit 3: 4,999,740,857 (9.9995%)
+Digit 4: 4,996,373,521 (9.9927%)
+Digit 5: 5,003,644,913 (10.0073%)
+Digit 6: 4,999,625,503 (9.9993%)
+Digit 7: 4,999,844,108 (9.9997%)
+Digit 8: 4,999,740,855 (9.9995%)
+Digit 9: 4,996,496,818 (9.9930%)
+
+Shannon Entropy: 3.321928
+Efficiency: 100.0000%
+
+
 ### summary
 ##### This system generates pseudo-transcendental sequences not through a single static formula, but through the interaction of multiple **Computational Chains** influenced by dynamic **Force Pressures**.
 
